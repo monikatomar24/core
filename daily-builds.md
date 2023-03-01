@@ -2,7 +2,7 @@
 
 The .NET team builds many branches of the product daily. You can install these builds to try out functionality prior to release.
 
-Daily builds, for both future and servicing branches, are available as Docker container images from the [Microsoft Container Registry](https://hub.docker.com/_/microsoft-dotnet-nightly/).
+Daily builds, For both future and servicing branches, are available as Docker container images from the [Microsoft Container Registry](https://hub.docker.com/_/microsoft-dotnet-nightly/).
 
 ## Future Releases
 
